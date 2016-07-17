@@ -4,6 +4,8 @@ Admin508 offers improved accessibility for Django's admin interface.
 
 This package is a work in progress. The goal is to bring Django admin interfaces into full compliance with Web Content Accessibility Guidelines 2.0's AA standards.
 
+Currently supporting Django 1.9
+
 ## Quick start
 
 
