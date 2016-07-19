@@ -1,7 +1,11 @@
+# Django Core License
+
+For ease of installation and use, this repository copies html and css from Django's admin interface. That code is governed by [Django's license](https://github.com/django/django/blob/master/LICENSE).
+
 # Public domain
 
-As a work of the United States Government, this project is in the
-public domain within the United States.
+As a work of the United States Government, this project is in
+the public domain within the United States.
 
 Additionally, we waive copyright and related rights in the work
 worldwide through the CC0 1.0 Universal public domain dedication.
